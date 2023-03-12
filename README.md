@@ -4,3 +4,4 @@
 *From all the classes I been taking through year up, the most fascinating one would be software developement. There is so much information about software/cloud that I never knew about. The hardest part was getting through through coursera. Spend endless hours and sleepless nights to finish all the module in time to recieve a certificate. I am ready to finish year up and continue my journey to become a project manager.*
 ### Accomplishments
 I haven't been in school for about 7 years now. When I got into this program, I thought classes were going to be hard, and I didn't know what to expect. I got into a groove of things and felt proud of myself completing my classwork. I never was a big school guy, so passing all my classes now at the age of 25 is still shocking to me. I feel proud of myself through year up, and I can't thank them enough for what they have done to help me achieve greatness.
+![alt text](image.jpg)
