@@ -1,5 +1,6 @@
 # My-profile
 **Hello, My name is Brian Huang. I was born and raised in the greater seattle area. I have a passion for hiking,bowling, and learning new things. I am currently a year up student enrolled into project management course. I am going to be an intern for providence begining of April, and i'm excited to learn what it takes in the real world, as this is my first ever "real" job**
+---
 ## Program manager
 *From all the classes I been taking through year up, the most fascinating one would be software developement. There is so much information about software/cloud that I never knew about. The hardest part was getting through through coursera. Spend endless hours and sleepless nights to finish all the module in time to recieve a certificate. I am ready to finish year up and continue my journey to become a project manager.*
 ### Accomplishments
