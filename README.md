@@ -14,6 +14,6 @@ I haven't been in school for about 7 years now. When I got into this program, I 
 
 ![alt text](art.jpg)
 Image above represents all of me. These are major values in my life, and All these things makes me happy. I'm stoked for the future, and I know if I have all of these, nothing can stop me.
-### Linkedln https://www.linkedin.com/in/brian-huang-03aa471a8/
-### Github https://github.com/bbrianhuang/My-profile.git
-### Github Cont. https://bbrianhuang.github.io/My-profile/
+[Linkedln] (https://www.linkedin.com/in/brian-huang-03aa471a8/)
+[Github] (https://github.com/bbrianhuang/My-profile.git)
+
